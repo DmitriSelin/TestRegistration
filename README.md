@@ -11,3 +11,4 @@
 ## Endpoints:
 * /register: POST
 * /verify: POST
+## UI был удален, тк каптча не работает с новыми версиями ASP.NET MVC. Для взаимодействия с сервером использовать Swagger, Postman, etc.
