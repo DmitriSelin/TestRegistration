@@ -8,3 +8,6 @@
 
 # О приложении
 ### Были реализованы все требования (за исклюлчением каптчи, тк она реализована в старых web forms и не работает в новом ASP.NET Razor Pages или MVC)
+## Endpoints:
+* /register: POST
+* /verify: POST
